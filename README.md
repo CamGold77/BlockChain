@@ -6,7 +6,6 @@ An interactive, educational implementation of blockchain concepts using React an
   - UI: `yarn start`
   - Server: `node src/server.js`
   - Docker: `docker-compose up`
-- **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 - **Code of Conduct**: See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 - **Security**: See [SECURITY.md](SECURITY.md)
 - **License**: MIT — see [LICENSE](LICENSE)
