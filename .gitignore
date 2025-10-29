@@ -20,3 +20,37 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# additional env files
+.env
+.env.*
+
+# editor/OS
+.idea/
+.vscode/
+Thumbs.db
+
+# logs
+logs
+*.log
+*.log.*
+npm-cache
+yarn-cache
+
+# diagnostics
+*.tsbuildinfo
+
+# build artifacts
+dist/
+tmp/
+temp/
+.cache/
+
+# docker
+.docker/
+
+# misc tooling
+.eslintcache
+.parcel-cache
+.firebase/
+.envrc
